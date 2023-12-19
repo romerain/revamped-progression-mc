@@ -1,0 +1,10 @@
+{
+  "type": "revamped-progression:kiln",
+  "input": {
+      "item": "minecraft:clay_ball"
+  },
+  "output": {
+    "id": "minecraft:brick",
+    "Count": 1
+  }
+}
